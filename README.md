@@ -3,7 +3,7 @@ This is a test repository for Git
 
 ## Following projects are coming soon:
 
-1. Calculator Application
+1. Calculator Applic
 2. IRIS Data plotting
 3. Basic image processing
 4. Validating credit card numbers
