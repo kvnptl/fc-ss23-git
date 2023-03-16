@@ -4,11 +4,14 @@ Date: <Add date>
 Email: <Add authors email>
 """
 
+
 def initilization():
-	print("Initiating Calculator ...")
-  
+	print("Initiating validating_email_addresses ...")
+
+
 def main():
 	initilization()
+
 
 if __name__ == '__main__':
 	main()
